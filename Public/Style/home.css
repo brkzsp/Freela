@@ -1,0 +1,19 @@
+div#home {
+  width: 100vw;
+  height: 100vh;
+}
+
+div#home nav {
+  width: 100vw;
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  padding: 2% 10%;
+}
+
+div#home nav ul{
+  display: flex;
+  justify-content: space-between;
+  width: 40vw;
+}
+
