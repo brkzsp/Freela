@@ -16,4 +16,51 @@ div#home nav ul{
   justify-content: space-between;
   width: 40vw;
 }
+ main {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
 
+ }
+
+.div-text{
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+
+.div-text h1 {
+  font-size: 84px;
+  font-weight: 700;
+  font-family: 'Volkhov', sans-serif;
+  letter-spacing: -4px;
+  color: #181E4B;
+}
+
+.sign-up {
+  border: 1px solid #212832;
+  border-radius: 5px;
+  padding: 10px 8px;
+}
+
+.play-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  background-color: #DF6951;
+  border-radius: 50%;
+  margin-right: 0.75rem;
+}
+
+.button-play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
