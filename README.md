@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://snake-js-psi.vercel.app/">
-    <img src="./snake-game/img/ICON.png" height="100" width="100" alt="Unform" />
+  <a href="">
+    <img src="." height="100" width="100" alt="Unform" />
   </a>
 </p>
 
-<h1 align="center">SNAKE GAME</h1>
+<h1 align="center">?</h1>
 
 
 <p align="center">
-  <img src="./snake-game/img/CAPAA.png" alt="Unform" />
+  <img src="" alt="Unform" />
 </p>
 
 ### 🛠 Tecnologias
